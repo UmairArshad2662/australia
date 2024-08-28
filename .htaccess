@@ -18,7 +18,7 @@ RewriteRule . /australia/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "C:\xampp\htdocs\australia/wp-content/uploads\simply-static\749527404c61e956e4115e301c65478c-debug.txt">
+<Files "C:\xampp\htdocs\australia/wp-content/uploads\simply-static\458910d6a4a914dcdb4366edc4d906c9-debug.txt">
 require all denied
 require host localhost
 </Files>
